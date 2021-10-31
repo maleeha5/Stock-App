@@ -6,7 +6,7 @@ To view the result , select the start date, end date and the action for which yo
 
 Multiple selections for the column actions is allowed
 
-It displays the stocks for each of the companies for all of the selected column actions
+It displays the stocks for each of the companies for all of the actions selected from the sidebar
 
 The choice of column actions are Open, High, Close, Value and Dividends
 The displayed companies include Apple, Google, Microsoft and Meta (Facebook)
