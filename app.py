@@ -3,14 +3,18 @@ import numpy as np
 import pandas as pd
 import yfinance as yf
 
+st1,st2=st.columns(2)
 
-st.write("""
-### Stock Price App
+
+st2.image('stockimg.jpg',)
+st1.write("""
+## Stock Price App 
 
 ###### Select the start date and the end date from the side bar to load the line charts for the companies
 ###### Select one or multiple actions to display plots for the desired action
 
 """)
+
 
 startt = st.sidebar.date_input('Select the start date')
 
